@@ -15,4 +15,9 @@ Because the problem involves solving a large number of small matrices rather tha
 ## Methodology
 
 1. **Self-Consistent Calculation of Coexisting Order Parameters**
-     - 
+     -
+2. **Calculation of integration grid**
+
+3. **Calculation of Bogoliubov Quasiparticle lifetimes**
+
+4. **Calculation of Thermal Conductivity Tensor**
